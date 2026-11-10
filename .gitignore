@@ -1,0 +1,6 @@
+# Generated inventory reports
+output/
+FrontDoorInventory*.xlsx
+FrontDoorInventory*.csv
+.frontdoor-stage-*
+.frontdoor-probe-*
